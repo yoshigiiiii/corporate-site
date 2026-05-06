@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- ===== 基本SEO ===== -->
+    <title>Senaka Oshitaru合同会社 | AI研修・キャリアコーチング・SNSマーケティング支援</title>
+    <meta name="description" content="Senaka Oshitaru合同会社（セナカオシタル）は、AI導入支援・研修、法人向けキャリアコーチング、SNSマーケティング支援を通じて、AIネイティブな組織変革を支援する経営パートナーです。「作業」をAIへ、「志」を未来へ。代表取締役社長：陸野 嘉義(Yoshigi Takano)。神奈川県座間市。">
+    <meta name="keywords" content="Senaka Oshitaru,セナカオシタル,セナカオシタル合同会社,陸野嘉義,Yoshigi Takano,AI研修,AI導入支援,法人向けキャリアコーチング,SNSマーケティング,AIネイティブ,組織変革,座間市">
+    <meta name="author" content="Senaka Oshitaru合同会社">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://senaka-oshitaru.com/">
+
+    <!-- ===== Open Graph (Facebook, LINE等のSNSプレビュー) ===== -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Senaka Oshitaru合同会社">
+    <meta property="og:title" content="Senaka Oshitaru合同会社 | 「作業」をAIへ。「志」を未来へ。">
+    <meta property="og:description" content="AIネイティブな組織変革で、人間が生き生きと輝く創造的経営を。AI研修・キャリアコーチング・SNSマーケティング支援の3つのサービスを提供しています。">
+    <meta property="og:url" content="https://senaka-oshitaru.com/">
+    <meta property="og:image" content="https://senaka-oshitaru.com/images/og-image.jpg">
+    <meta property="og:locale" content="ja_JP">
+
+    <!-- ===== Twitter Card ===== -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Senaka Oshitaru合同会社 | 「作業」をAIへ。「志」を未来へ。">
+    <meta name="twitter:description" content="AIネイティブな組織変革で、人間が生き生きと輝く創造的経営を。">
+    <meta name="twitter:image" content="https://senaka-oshitaru.com/images/og-image.jpg">
+
+    <!-- ===== Favicon ===== -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0%25' stop-color='%234f8cff'/%3E%3Cstop offset='50%25' stop-color='%237b5bff'/%3E%3Cstop offset='100%25' stop-color='%23ff5bd1'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='32' height='32' fill='%23020714' rx='6'/%3E%3Cpath d='M6 22 L16 8 L26 22 M11 22 L16 14 L21 22' stroke='url(%23g)' stroke-width='2.6' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3Ccircle cx='16' cy='26' r='1.6' fill='url(%23g)'/%3E%3C/svg%3E">
+
+    <!-- ===== 構造化データ (JSON-LD) - Google検索結果でリッチに表示される ===== -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Senaka Oshitaru合同会社",
+      "alternateName": ["セナカオシタル合同会社", "Senaka Oshitaru LLC"],
+      "url": "https://senaka-oshitaru.com/",
+      "logo": "https://senaka-oshitaru.com/images/og-image.jpg",
+      "description": "AIネイティブな組織変革で、人間が生き生きと輝く創造的経営を支援する経営パートナー。AI研修・法人向けキャリアコーチング・SNSマーケティング支援を提供。",
+      "foundingDate": "2024",
+      "founder": {
+        "@type": "Person",
+        "name": "陸野 嘉義",
+        "alternateName": "Yoshigi Takano",
+        "jobTitle": "代表取締役社長"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "相武台2-13-10",
+        "addressLocality": "座間市",
+        "addressRegion": "神奈川県",
+        "postalCode": "252-0011",
+        "addressCountry": "JP"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "url": "https://form.run/@yoshigi-chuo-16a2oq7EXK5gm3pHKsG3",
+        "availableLanguage": ["Japanese"]
+      },
+      "knowsAbout": ["AI導入支援", "AI研修", "キャリアコーチング", "SNSマーケティング", "組織変革"]
+    }
+    </script>
+
+    <!-- ===== Fonts ===== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Noto+Sans+JP:wght@300;400;500;700&family=Noto+Serif+JP:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!-- ===== Header / Global Navigation ===== -->
+    <header id="global-header" class="global-header">
+        <div class="header-inner">
+            <a href="#top" class="brand-logo" aria-label="Senaka Oshitaru ホーム">
+                <span class="logo-mark">
+                    <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                        <defs>
+                            <linearGradient id="logoGrad" x1="0" y1="0" x2="1" y2="1">
+                                <stop offset="0%" stop-color="#4f8cff"/>
+                                <stop offset="50%" stop-color="#7b5bff"/>
+                                <stop offset="100%" stop-color="#ff5bd1"/>
+                            </linearGradient>
+                        </defs>
+                        <path d="M6 22 L16 8 L26 22 M11 22 L16 14 L21 22" stroke="url(#logoGrad)" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                        <circle cx="16" cy="26" r="1.6" fill="url(#logoGrad)"/>
+                    </svg>
+                </span>
+                <span class="logo-text">Senaka Oshitaru</span>
+            </a>
+
+            <nav class="primary-nav" aria-label="メインナビゲーション">
+                <ul>
+                    <li><a href="#top" class="nav-link is-active">TOP</a></li>
+                    <li><a href="#vision" class="nav-link">CONCEPT</a></li>
+                    <li><a href="#service" class="nav-link">SERVICE</a></li>
+                    <li><a href="#message" class="nav-link">MESSAGE</a></li>
+                    <li><a href="#company" class="nav-link">COMPANY</a></li>
+                    <li><a href="#contact" class="nav-link">CONTACT</a></li>
+
+                </ul>
+            </nav>
+
+            <a href="#contact" class="contact-btn">
+                <span>CONTACT</span>
+                <span class="contact-dot"></span>
+            </a>
+
+            <button class="menu-toggle" id="menu-toggle" aria-label="メニューを開く" aria-expanded="false">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </header>
+
+    <!-- ===== Mobile Drawer ===== -->
+    <div class="mobile-drawer" id="mobile-drawer" aria-hidden="true">
+        <ul>
+            <li><a href="#top">TOP</a></li>
+            <li><a href="#vision">CONCEPT</a></li>
+            <li><a href="#service">SERVICE</a></li>
+            <li><a href="#message">MESSAGE</a></li>
+            <li><a href="#company">COMPANY</a></li>
+            <li><a href="#contact">CONTACT</a></li>
+        </ul>
+    </div>
+
+    <main>
+
+        <!-- ===== Hero Section ===== -->
+        <section id="top" class="hero-section">
+            <div class="hero-bg" aria-hidden="true">
+                <img src="images/hero-light.jpg" alt="" class="hero-bg-image">
+                <div class="hero-bg-overlay"></div>
+                <canvas id="particle-canvas" class="particle-canvas"></canvas>
+            </div>
+
+            <div class="hero-content">
+                <h1 class="hero-title">
+                    <span class="hero-title-line"><span class="ja-emphasis">「作業」</span>をAIへ。</span>
+                    <span class="hero-title-line"><span class="ja-emphasis grad">「志」</span>を未来へ。</span>
+                </h1>
+                <p class="hero-subtitle">AIネイティブな組織変革で、<br class="sp-only">人間が生き生きと輝く創造的経営を。</p>
+                <p class="hero-description">
+                    Senaka Oshitaruは、AIを単なる効率化のツールとしてではなく、<br>
+                    社員一人ひとりの「志」が駆動する組織への変革を伴走する、<br>
+                    AIネイティブ時代の経営パートナーです。
+                </p>
+
+                <a href="#service" class="play-movie-btn" aria-label="サービスを見る">
+                    <span class="play-icon">
+                        <i class="fas fa-arrow-right"></i>
+                    </span>
+                    <span class="play-label">VIEW SERVICE</span>
+                </a>
+            </div>
+
+            <!-- Side pagination -->
+            <aside class="hero-pagination" aria-hidden="true">
+                <span class="page-num">01</span>
+                <ul>
+                    <li class="is-active"></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </aside>
+
+            <!-- Scroll indicator -->
+            <div class="scroll-indicator" aria-hidden="true">
+                <span class="scroll-text">SCROLL</span>
+                <span class="scroll-line"></span>
+            </div>
+        </section>
+
+        <!-- ===== Vision (Concept) Section ===== -->
+        <section id="vision" class="vision-section">
+            <div class="container">
+                <div class="vision-grid">
+                    <div class="vision-text">
+                        <header class="section-header">
+                            <h2 class="section-title">OUR CONCEPT</h2>
+                            <p class="section-subtitle">私たちの考え</p>
+                            <span class="section-divider"></span>
+                        </header>
+
+                        <h3 class="vision-headline">
+                            AIで「作業」を解き放ち、<br>
+                            人間の「志」で世界を彩る。
+                        </h3>
+                        <p class="vision-description">
+                            テクノロジーは、もっと人の可能性を広げられる。<br>
+                            Senaka Oshitaruは、AI実装・キャリア支援・発信戦略を通じて、<br>
+                            すべての人と組織が「自分の色」で輝ける未来をつくります。
+                        </p>
+
+                        <a href="#contact" class="view-more-btn">
+                            <span>CONTACT US</span>
+                            <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+
+                    <div class="vision-visual">
+                        <div class="earth-wrap">
+                            <img src="images/vision-earth.jpg" alt="" class="earth-image">
+                            <span class="earth-glow"></span>
+                        </div>
+                        <ul class="vision-keywords" aria-hidden="true">
+                            <li class="kw kw-1">
+                                <span class="kw-line"></span>
+                                <span class="kw-dot"></span>
+                                <span class="kw-text">AI</span>
+                            </li>
+                            <li class="kw kw-2">
+                                <span class="kw-line"></span>
+                                <span class="kw-dot"></span>
+                                <span class="kw-text">PEOPLE</span>
+                            </li>
+                            <li class="kw kw-3">
+                                <span class="kw-line"></span>
+                                <span class="kw-dot"></span>
+                                <span class="kw-text">WILL</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ===== Service Section ===== -->
+        <section id="service" class="service-section">
+            <div class="container">
+                <header class="section-header section-header-center">
+                    <h2 class="section-title">OUR SERVICE</h2>
+                    <p class="section-subtitle">事業内容</p>
+                    <span class="section-divider"></span>
+                    <p class="section-lead">
+                        AIネイティブな組織変革に必要な、3つの一貫したサービスを提供します。
+                    </p>
+                </header>
+
+                <div class="service-grid service-grid-3">
+                    <article class="service-card reveal" data-delay="0">
+                        <div class="service-card-num">01</div>
+                        <div class="service-card-image">
+                            <img src="images/service-training.jpg" alt="AI & Business Skill Training">
+                        </div>
+                        <div class="service-card-body">
+                            <h3 class="service-card-title">AI &amp; Business<br>Skill Training</h3>
+                            <p class="service-card-jp">AI・ビジネススキル研修</p>
+                            <p class="service-card-catch">
+                                ツール導入の先にある<br>
+                                <span class="grad">「AIネイティブ」な組織文化</span>を創る。
+                            </p>
+                            <p class="service-card-text">
+                                AIの使い道を知るだけでは不十分です。私たちは、業務プロセスそのものをAI前提で再設計し、社員が自律的にAIを使いこなせる状態を目指します。技術習得とマインドセット変革をセットで提供し、変化に強い組織へと導きます。
+                            </p>
+                            <span class="service-card-arrow" aria-hidden="true">
+                                <i class="fas fa-arrow-right"></i>
+                            </span>
+                        </div>
+                    </article>
+
+                    <article class="service-card reveal" data-delay="150">
+                        <div class="service-card-num">02</div>
+                        <div class="service-card-image">
+                            <img src="images/service-coaching.jpg" alt="Corporate Career Coaching">
+                        </div>
+                        <div class="service-card-body">
+                            <h3 class="service-card-title">Corporate<br>Career Coaching</h3>
+                            <p class="service-card-jp">法人向けキャリアコーチング</p>
+                            <p class="service-card-catch">
+                                <span class="grad">「やりたい」が原動力。</span><br>
+                                社員の主体性を解き放つ。
+                            </p>
+                            <p class="service-card-text">
+                                AIが作業を代替する時代だからこそ、人間に求められるのは「自分はどうありたいか」という意志です。コーチングを通じて社員のキャリアデザインを支援し、個人の幸福と組織の成長が同期する、熱量の高いチーム作りをサポートします。
+                            </p>
+                            <span class="service-card-arrow" aria-hidden="true">
+                                <i class="fas fa-arrow-right"></i>
+                            </span>
+                        </div>
+                    </article>
+
+                    <article class="service-card reveal" data-delay="300">
+                        <div class="service-card-num">03</div>
+                        <div class="service-card-image">
+                            <img src="images/service-sns.jpg" alt="SNS Marketing Support">
+                        </div>
+                        <div class="service-card-body">
+                            <h3 class="service-card-title">SNS Marketing<br>Support</h3>
+                            <p class="service-card-jp">SNSマーケティング支援</p>
+                            <p class="service-card-catch">
+                                AI時代に埋没しない、<br>
+                                貴社だけの<span class="grad">「独自の色彩」</span>を世界へ。
+                            </p>
+                            <p class="service-card-text">
+                                情報の同質化が進むAI時代において、最大の差別化要因は「発信」です。企業のビジョンや独自の強みをSNSを通じて戦略的に発信し、「この会社だからこそ頼みたい」と思われる唯一無二のブランドポジションを確立します。
+                            </p>
+                            <span class="service-card-arrow" aria-hidden="true">
+                                <i class="fas fa-arrow-right"></i>
+                            </span>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <!-- ===== Message Section (代表挨拶) ===== -->
+        <section id="message" class="message-section">
+            <div class="container">
+                <div class="message-grid">
+                    <div class="message-text">
+                        <header class="section-header">
+                            <h2 class="section-title">MESSAGE</h2>
+                            <p class="section-subtitle">代表挨拶</p>
+                            <span class="section-divider"></span>
+                        </header>
+
+                        <h3 class="message-headline">
+                            <span class="ja-emphasis">「作業」</span>の時代を終わらせ、<br>
+                            <span class="ja-emphasis grad">「志」</span>が駆動する組織へ。
+                        </h3>
+
+                        <div class="message-body">
+                            <p>
+                                私たちは今、歴史的な転換点に立っています。AIの急速な普及は、多くの「作業」を人間から解放しようとしています。しかし、それは決して人間の価値が失われることを意味しません。むしろ、人間が本来持っている「クリエイティビティ」や「志」に立ち返るための、またとないチャンスなのです。
+                            </p>
+                            <p>
+                                社名の「Senaka Oshitaru」には、未来を描くすべての企業、そして個人の背中を力強く押す存在でありたいという願いを込めました。AIを単なる効率化のツールとしてではなく、社員一人ひとりが生き生きと輝き、その会社ならではの「色」を世界に発信するための翼として実装していく。私たちは、そんなAIネイティブな変革の伴走者として、貴社と共に歩みます。
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="message-visual">
+                        <figure class="ceo-portrait">
+                            <div class="ceo-portrait-frame">
+                                <img src="images/ceo-portrait-v2.jpg" alt="代表取締役社長 陸野 嘉義">
+                                <span class="ceo-portrait-glow" aria-hidden="true"></span>
+                            </div>
+                            <figcaption class="ceo-portrait-caption">
+                                <span class="ceo-name-jp">陸野 嘉義</span>
+                                <span class="ceo-name-en">Yoshigi Takano</span>
+                                <span class="ceo-role">CEO &amp; Founder</span>
+                            </figcaption>
+                        </figure>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ===== Company Section ===== -->
+        <section id="company" class="company-section">
+            <div class="container">
+                <header class="section-header section-header-center">
+                    <h2 class="section-title">COMPANY</h2>
+                    <p class="section-subtitle">会社概要</p>
+                    <span class="section-divider"></span>
+                </header>
+
+                <dl class="company-table">
+                    <div class="company-row">
+                        <dt>社名</dt>
+                        <dd>Senaka Oshitaru合同会社</dd>
+                    </div>
+                    <div class="company-row">
+                        <dt>代表者</dt>
+                        <dd>代表取締役社長 陸野 嘉義</dd>
+                    </div>
+                    <div class="company-row">
+                        <dt>所在地</dt>
+                        <dd>〒252-0011<br>神奈川県座間市相武台2-13-10</dd>
+                    </div>
+                    <div class="company-row">
+                        <dt>資本金</dt>
+                        <dd>1,000,000円</dd>
+                    </div>
+                    <div class="company-row">
+                        <dt>事業内容</dt>
+                        <dd>
+                            <ul class="company-biz-list">
+                                <li>AI導入支援・研修事業</li>
+                                <li>法人向けキャリアコーチング</li>
+                                <li>SNSマーケティング支援</li>
+                            </ul>
+                        </dd>
+                    </div>
+                </dl>
+            </div>
+        </section>
+
+        <!-- ===== Contact CTA Section ===== -->
+        <section id="contact" class="contact-section">
+            <div class="contact-bg" aria-hidden="true"></div>
+            <div class="container">
+                <div class="contact-inner">
+                    <p class="contact-eyebrow">CONTACT</p>
+                    <h2 class="contact-headline">
+                        貴社の「志」が駆動する組織へ、<br>
+                        最初の一歩を一緒に。
+                    </h2>
+                    <p class="contact-text">
+                        AI研修・キャリアコーチング・SNSマーケティングに関するご相談、<br>
+                        お見積りなど、お気軽にお問い合わせください。
+                    </p>
+                    <a href="https://form.run/@yoshigi-chuo-16a2oq7EXK5gm3pHKsG3" target="_blank" rel="noopener noreferrer" class="contact-cta-btn">
+                        <span>お問い合わせはこちら</span>
+                        <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- ===== Footer ===== -->
+    <footer class="site-footer">
+        <div class="footer-bg" aria-hidden="true"></div>
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <a href="#top" class="brand-logo footer-logo">
+                        <span class="logo-mark">
+                            <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                                <path d="M6 22 L16 8 L26 22 M11 22 L16 14 L21 22" stroke="url(#logoGrad)" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                                <circle cx="16" cy="26" r="1.6" fill="url(#logoGrad)"/>
+                            </svg>
+                        </span>
+                        <span class="logo-text">Senaka Oshitaru</span>
+                    </a>
+                    <p class="footer-tagline">「作業」をAIへ。「志」を未来へ。</p>
+                    <p class="footer-desc">
+                        AIネイティブな組織変革で、<br>
+                        人間が生き生きと輝く創造的経営を支援します。
+                    </p>
+                    <ul class="social-list" aria-label="ソーシャルメディア">
+                        <li><a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="#" aria-label="X (Twitter)"><i class="fab fa-x-twitter"></i></a></li>
+                        <li><a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a></li>
+                        <li><a href="#" aria-label="note"><i class="fas fa-pen-nib"></i></a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-nav-cols">
+                    <div class="footer-col">
+                        <h4 class="footer-col-title">SERVICE</h4>
+                        <ul>
+                            <li><a href="#service">AI・ビジネススキル研修</a></li>
+                            <li><a href="#service">法人向けキャリアコーチング</a></li>
+                            <li><a href="#service">SNSマーケティング支援</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-col">
+                        <h4 class="footer-col-title">COMPANY</h4>
+                        <ul>
+                            <li><a href="#vision">私たちの考え</a></li>
+                            <li><a href="#message">代表挨拶</a></li>
+                            <li><a href="#company">会社概要</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-col">
+                        <h4 class="footer-col-title">INFORMATION</h4>
+                        <ul>
+                            <li><a href="#contact">お問い合わせ</a></li>
+                            <li><a href="#">プライバシーポリシー</a></li>
+                            <li><a href="#">特定商取引法に基づく表記</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <a href="#contact" class="footer-contact-card">
+                    <h4 class="footer-contact-title">CONTACT</h4>
+                    <p class="footer-contact-text">お気軽にお問い合わせください</p>
+                    <span class="footer-contact-arrow"><i class="fas fa-arrow-right"></i></span>
+                </a>
+            </div>
+
+            <div class="footer-bottom">
+                <p class="copyright">&copy; 2026 Senaka Oshitaru LLC. All Rights Reserved.</p>
+                <ul class="footer-bottom-links">
+                    <li><a href="#">プライバシーポリシー</a></li>
+                    <li><a href="#">サイトマップ</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
